@@ -1,0 +1,7 @@
+Make new project
+Add jars 
+create featurs folder
+Go to Install marketplace and type -http://cucumber.github.com/cucumber-eclipse/update-site
+Create a feature file in features folder
+Create TestRunner Class
+Create a package step definition and create a test class 
